@@ -1,1 +1,1 @@
-# Big Data coursework using PySpark and Google Cloud – TFRecord, parallelism tests, and analysis.
+# Big Data using PySpark and Google Cloud – TFRecord, parallelism tests, and analysis.
